@@ -1,4 +1,4 @@
-// This file is a part of EverythingSuckz/TG-FileStreamBot
+// This file is a part of GeekHirushaDev/fileXstream
 // And is licenced under the Affero General Public License.
 // Any distributions of this code MUST be accompanied by a copy of the AGPL
 // with proper attribution to the original author(s).
